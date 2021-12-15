@@ -2,6 +2,8 @@
 
 playing with vscode and tests with jest
 
+see blogpost [here](https://sombriks.com.br/#/blog/0027-jest-and-typescript-setup.md).
+
 ```bash
 mkdir simple-typescript-test-setup
 cd simple-typescript-test-setup
